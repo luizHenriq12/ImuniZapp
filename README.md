@@ -12,8 +12,8 @@
 
 ## Tecnologias Utilizadas
 
-- **Front-end**: React
-- **Back-end**: Node.js, Express
+- **Front-end**: Next.js
+- **Back-end**: Node.js, Laravel
 - **Banco de Dados**: MySql
 - **Notificações Push**: Firebase Cloud Messaging
 - **Hospedagem**: localhost
@@ -39,7 +39,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
     ```
 4. Inicie o servidor:
     ```bash
-    npm run dev
+    npm start
     ```
 
 ## Uso
